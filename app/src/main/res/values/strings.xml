@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseNew</string>
+    <string-array name="subjectNameArray">
+        <item>Android</item>
+        <item>java</item>
+        <item>Theory of computation</item>
+        <item>Digital image processing</item>
+        <item>machine Learning</item>
+        <item>Automation</item>
+        <item>Mecha-tronics</item>
+
+    </string-array>
+</resources>
